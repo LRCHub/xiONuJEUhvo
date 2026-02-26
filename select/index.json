@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ユレルカレル",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2026-02-26T16:27:48.196993Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユレルカレル",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_ユレルカレル_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ユレルカレル",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_02_ユレルカレル_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ユレルカレル",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_03_ユレルカレル_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ユレルカレル",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_04_ユレルカレル_ゲスの極み乙女。.txt"
+    }
+  ]
+}
